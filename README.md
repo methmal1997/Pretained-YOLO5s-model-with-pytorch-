@@ -33,6 +33,9 @@ Then in terminal, pip install -r requirements.txt
 
 After installation,
 
-python detect.py --source 0 ,  for using web cam detection in terminal.
+'python detect.py --source 0 ' ,  for using web cam detection in terminal.
 
-python detect.py --weights yolov5s.pt --img 640 --conf 0.25 --source data/images/download.jpg,  for detecting own image.
+' python detect.py --weights yolov5s.pt --img 640 --conf 0.25 --source data/images/download.jpg'  ,  for detecting own image.
+
+
+sourece-  "https://www.section.io/engineering-education/object-detection-with-yolov5-and-pytorch/"
